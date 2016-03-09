@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Bruce <weavertheme@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#. Text in function
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+msgid "&larr; Previous"
+msgstr ""
+
+#. Text in function
+msgid ", "
+msgstr ""
+
+#. Text in function
+msgid "<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\">%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+msgstr ""
+
+#. Text in function
+msgid "<b>%</b> Replies"
+msgstr ""
+
+#. Text in function
+msgid "<b>1</b> Reply"
+msgstr ""
+
+#. Text in function
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr ""
+
+#. Text in function
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr ""
+
+#. Text in function
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#. Text in function
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#. Text in function
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#. Text in function
+msgid "<span class=\"sep posted-on\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#. Text in function
+msgid "<b>RSS Error</b>: %s"
+msgstr ""
+
+#. Text in function
+msgid "About %s"
+msgstr ""
+
+#. Text in function
+msgid "An error has occurred; the feed is probably down. Try again later."
+msgstr ""
+
+#. Text in function
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in function
+msgid "Aside"
+msgstr ""
+
+#. Text in function
+msgid "Author Archives: %s"
+msgstr ""
+
+#. Text in function
+msgid "Authors"
+msgstr ""
+
+#. Text in function
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+msgid "Category Archives: %s"
+msgstr ""
+
+#. Text in function
+msgid "Chat"
+msgstr ""
+
+#. Text in function
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in function
+msgid "Comment on %s"
+msgstr ""
+
+#. Text in function
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+msgid "<span class=\"more-msg\">Continue reading &rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: weaver-ii-pro/archive.php:33
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+msgid "Enter your password to view comments."
+msgstr ""
+
+#. Text in function
+msgstr ""
+
+#. Text in function
+msgid "Gallery"
+msgstr ""
+
+#. Text in function
+msgid "Home"
+msgstr ""
+
+#. Text in function
+msgid "Image"
+msgstr ""
+
+#. Text in function
+msgid "Image navigation"
+msgstr ""
+
+#. Text in function
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr ""
+
+#. Text in function
+msgid "Leave a reply"
+msgstr ""
+
+#. Text in function
+msgid "Link"
+msgstr ""
+
+#. Text in function
+msgid "Log in/out, admin"
+msgstr ""
+
+#. Text in function
+msgid "Login"
+msgstr ""
+
+#. Text in function
+msgid "Menu"
+msgstr ""
+
+#. Text in function
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in function
+msgid "Most Used Categories"
+msgstr ""
+
+#. Text in function
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+msgid "Next &rarr;"
+msgstr ""
+
+#. Text in function
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: weaver-ii-pro/functions.php:558
+msgid "Next Post"
+msgstr ""
+
+#. Text in function
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in function
+msgid "Page"
+msgstr ""
+
+#. Text in function
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+msgid "Page Not Found"
+msgstr ""
+
+#. Text in function
+msgid "Pages"
+msgstr ""
+
+#. Text in function
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in function
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+msgid "Post Formats"
+msgstr ""
+
+#. Text in function
+msgid "Post navigation"
+msgstr ""
+
+#. Text in function
+msgid "Posts"
+msgstr ""
+
+#. Text in function
+msgid "Published"
+msgstr ""
+
+#. Text in function
+msgid "Author"
+msgstr ""
+
+#. Text in function
+msgid "Previous Post"
+msgstr ""
+
+#. Text in function
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. Text in function
+msgid "Quote"
+msgstr ""
+
+#. Text in function
+msgid "Reply"
+msgstr ""
+
+#. Text in function
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#. Text in function
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in function
+msgid "Search Results"
+msgstr ""
+
+#. Text in function
+msgid "Search for:"
+msgstr ""
+
+#. Text in function
+msgid "Skip to primary content"
+msgstr ""
+
+#. Text in function
+msgid "Skip to secondary content"
+msgstr ""
+
+#. Text in function
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+msgid "Sorry, no such page."
+msgstr ""
+
+#. Text in function
+msgid "Status"
+msgstr ""
+
+#. Text in function
+msgid "Syndicate this content"
+msgstr ""
+
+#. Text in function
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+msgid "Tag Archives: %s"
+msgstr ""
+
+#. Text in function
+msgid "Tag Cloud"
+msgstr ""
+
+#. Text in function
+msgid "This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#. Text in function
+msgid "This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#. Text in function
+msgid "This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#. Text in function
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. Text in function
+msgid "Unknown Feed"
+msgstr ""
+
+#. Text in function
+msgid "Untitled"
+msgstr ""
+
+#. Text in function
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in function
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+msgid "Welcome"
+msgstr ""
+
+#. Text in function
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in function
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+msgid "http://wordpress.org/"
+msgstr ""
+
+#. Text in function
+msgid "permalink"
+msgstr ""
+
+#. Text in function
+msgid "Search Site"
+msgstr ""

@@ -1,0 +1,22 @@
+This is my evaluation of WordPress Customizer
+
+
+Things that aren't so great (things that suck!):
+
+* Need a better way to control the 'refresh' delay.
+
+When entering almost any value,
+refresh seems to be invoked almost immediately. Somtimes this is okay (for a drop-down
+or radio button selection, for example). But mostly it leads to what appear to me multiple
+calls to refresh, and they seem to stack, so the refresh takes a long time. Examples of this
+including adding text to a text area, changing a range value, entering a value to a box,
+and even using the color picker. Ideally there would be a bit of a built in delay before
+refresh is called. A half second would probably be okay, but a text box might want a bit
+more time, so this probably should be settable.
+
+* Navigation on tall panels
+
+If any panel - a section or an option panel are tall, the user must scroll down to see
+the selections on the lower part of the panel. This, unfortunately, means the panel
+name box at the top that contains the < back button scrolls out of view. So, to navigate
+around, the user must scroll back up before being able to go back. This is SO tedious.

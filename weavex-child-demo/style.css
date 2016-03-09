@@ -1,0 +1,50 @@
+/*
+Theme Name: Weaver Xtreme Child Demo
+Theme URI: //weavertheme.com
+Description: Bare minimum Weaver Xtreme Child demo theme
+Author: Bruce Wampler
+Author URI: //weavertheme.com/about
+Version: 1.0
+Tags: light, dark, white, black, gray, one-column, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template,  post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, photoblogging
+Template: weaver-xtreme
+
+
+    This program is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 2 of the License, or
+	(at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+About style.css:
+
+Traditionally, a child theme provides its own style.css to override or extend the
+parent style.css. This usually involved adding an "@import" to the child's style.css.
+
+Weaver Xtreme handles the main style sheet differently. It is called "assets/css/style.weaverx.css",
+and is loaded before the theme "style.css" file. Thus, there is no need to "@import" the
+parent stylesheet.
+
+So you can make overrides and extensions directly in this child style.css.
+
+*/
+
+
+
+/*  ------------------------------------------------------
+ Add specific style overrides here...
+
+  Just for example, this style will change the default BG Color for the site.
+*/
+body,
+input,
+textarea {
+	background-color: #CCC;
+}
